@@ -1,0 +1,1 @@
+I made this website as my Web Technologies Final Project. It is a website dedicated to Mr. Naval Ravikant, whose insightful podcasts and perspectives have helped me immensely in life.
